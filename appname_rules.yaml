@@ -1,25 +1,12 @@
 payload:
-  # ========================================================
-  # Windows 进程分流
-  # ========================================================
-  # ChatGPT 官方 Windows 客户端
-  - PROCESS-NAME,ChatGPT.exe,GPT代理
+  # Windows 桌面应用与开发工具
+  - PROCESS-NAME,ChatGPT.exe
+  - PROCESS-NAME,Code.exe
+  - PROCESS-NAME,Cursor.exe
+  - PROCESS-NAME,studio64.exe
+  - PROCESS-NAME,idea64.exe
 
-  # Codex / Copilot 宿主 IDE 进程 (根据你使用的编辑器选择保留)
-  - PROCESS-NAME,Code.exe,GPT代理            # VS Code
-  - PROCESS-NAME,Cursor.exe,GPT代理          # Cursor AI 编辑器
-  - PROCESS-NAME,studio64.exe,GPT代理        # Android Studio
-  - PROCESS-NAME,idea64.exe,GPT代理          # IntelliJ IDEA
-
-  # ========================================================
-  # Android 应用包名分流 (FlClash / Clash for Android)
-  # ========================================================
-  - PROCESS-NAME,com.openai.chatgpt,GPT代理         # ChatGPT Android 版
-  - PROCESS-NAME,com.zhiliaoapp.musically,GPT代理   # TikTok Android 版
-  - PROCESS-NAME,com.lemon.lvoverseas,GPT代理       # CapCut (TikTok剪辑) Android 版
-
-  # ========================================================
-  # iOS 应用 Bundle ID 分流 (Shadowrocket / Stash / Loon)
-  # ========================================================
-  - PROCESS-NAME,com.openai.chatgpt,GPT代理         # ChatGPT iOS 版
-  - PROCESS-NAME,com.zhiliaoapp.musically,GPT代理   # TikTok iOS 版
+  # Android / iOS 应用包名 (Bundle ID)
+  - PROCESS-NAME,com.openai.chatgpt
+  - PROCESS-NAME,com.zhiliaoapp.musically
+  - PROCESS-NAME,com.lemon.lvoverseas
