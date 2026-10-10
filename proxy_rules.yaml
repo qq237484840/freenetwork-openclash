@@ -1,0 +1,78 @@
+payload:
+  # Google 基础生态
+  - DOMAIN-KEYWORD,google
+  - DOMAIN-KEYWORD,youtube
+  - DOMAIN-SUFFIX,1e100.net
+  - DOMAIN-SUFFIX,2mdn.net
+  - DOMAIN-SUFFIX,appspot.com
+  - DOMAIN-SUFFIX,chrome.com
+  - DOMAIN-SUFFIX,chromecast.com
+  - DOMAIN-SUFFIX,ggpht.com
+  - DOMAIN-SUFFIX,googleapis.com
+  - DOMAIN-SUFFIX,googlevideo.com
+  - DOMAIN-SUFFIX,gstatic.com
+  - DOMAIN-SUFFIX,gvt0.com
+  - DOMAIN-SUFFIX,gvt1.com
+  - DOMAIN-SUFFIX,gvt2.com
+  - DOMAIN-SUFFIX,gvt3.com
+  - DOMAIN-SUFFIX,tensorflow.org
+  - DOMAIN-SUFFIX,youtu.be
+  - DOMAIN-SUFFIX,ytimg.com
+  - DOMAIN,mtalk.google.com
+  - DOMAIN,alt1-mtalk.google.com
+  - DOMAIN,alt2-mtalk.google.com
+  - DOMAIN,alt3-mtalk.google.com
+  - DOMAIN,alt4-mtalk.google.com
+  - DOMAIN,alt5-mtalk.google.com
+  - DOMAIN,alt6-mtalk.google.com
+  - DOMAIN,alt7-mtalk.google.com
+  - DOMAIN,alt8-mtalk.google.com
+
+  # 社交与通信
+  - DOMAIN-SUFFIX,discord.com
+  - DOMAIN-SUFFIX,discordapp.com
+  - DOMAIN-SUFFIX,discordapp.net
+  - DOMAIN-SUFFIX,facebook.com
+  - DOMAIN-SUFFIX,fbcdn.net
+  - DOMAIN-SUFFIX,instagram.com
+  - DOMAIN-SUFFIX,reddit.com
+  - DOMAIN-SUFFIX,signal.org
+  - DOMAIN-SUFFIX,t.co
+  - DOMAIN-SUFFIX,telegram.me
+  - DOMAIN-SUFFIX,telegram.org
+  - DOMAIN-SUFFIX,twitter.com
+  - DOMAIN-SUFFIX,whatsapp.com
+  - DOMAIN-SUFFIX,whatsapp.net
+  - DOMAIN-SUFFIX,x.com
+
+  # 百科与新闻
+  - DOMAIN-SUFFIX,bbc.co.uk
+  - DOMAIN-SUFFIX,bbc.com
+  - DOMAIN-SUFFIX,blogspot.com
+  - DOMAIN-SUFFIX,dw.com
+  - DOMAIN-SUFFIX,nytimes.com
+  - DOMAIN-SUFFIX,rfa.org
+  - DOMAIN-SUFFIX,voachinese.com
+  - DOMAIN-SUFFIX,wikimedia.org
+  - DOMAIN-SUFFIX,wikipedia.org
+  - DOMAIN-SUFFIX,wordpress.com
+  - DOMAIN-SUFFIX,wsj.com
+
+  # 开发与工具
+  - DOMAIN,www.topazlabs.com
+  - DOMAIN-SUFFIX,downloadhelper.net
+  - DOMAIN-SUFFIX,element-plus.gitee.io
+  - DOMAIN-SUFFIX,element-plus.run
+  - DOMAIN-SUFFIX,github.com
+  - DOMAIN-SUFFIX,githubusercontent.com
+  - DOMAIN-SUFFIX,ipaddress.my
+  - DOMAIN-SUFFIX,mega.nz
+  - DOMAIN-SUFFIX,microsoft.com
+  - DOMAIN-SUFFIX,pytorch.org
+  - DOMAIN-SUFFIX,switchyomega.com
+
+  # 区块链 / Web3
+  - DOMAIN-SUFFIX,blockchain.com
+  - DOMAIN-SUFFIX,chaininsight.vip
+  - DOMAIN-SUFFIX,metamask.io
+  - DOMAIN-SUFFIX,unisat.io
