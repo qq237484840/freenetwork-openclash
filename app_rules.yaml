@@ -4,13 +4,7 @@ payload:
   # ========================================================
   # ChatGPT 官方 Windows 桌面客户端
   - PROCESS-NAME,ChatGPT.exe
-
-  # Codex / GitHub Copilot 相关宿主 IDE 与开发工具
-  - PROCESS-NAME,Code.exe            # VS Code 编辑器
-  - PROCESS-NAME,Cursor.exe          # Cursor AI 代码编辑器
-  - PROCESS-NAME,studio64.exe        # Android Studio (Android 开发)
-  - PROCESS-NAME,idea64.exe          # IntelliJ IDEA (Java/Kotlin 开发)
-
+  
   # ========================================================
   # Android / iOS 移动端应用包名与 Bundle ID (PROCESS-NAME)
   # ========================================================
