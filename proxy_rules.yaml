@@ -76,3 +76,6 @@ payload:
   - DOMAIN-SUFFIX,chaininsight.vip
   - DOMAIN-SUFFIX,metamask.io
   - DOMAIN-SUFFIX,unisat.io
+
+  # 海外apk下载
+  - DOMAIN-SUFFIX,uptodown.com
