@@ -79,3 +79,5 @@ payload:
 
   # 海外apk下载
   - DOMAIN-SUFFIX,uptodown.com
+  - DOMAIN-SUFFIX,apkpure.com
+  - DOMAIN-SUFFIX,apkmirror.com
